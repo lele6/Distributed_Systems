@@ -1,0 +1,3 @@
+Task 1: build a secure system using symmetric key cryptography
+Task 2: use asymmetric key cryptography to establish the shared secret; 
+        use the Java BigInteger class and will not make use of any Java crypto API’s
